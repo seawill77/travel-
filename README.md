@@ -1,4 +1,4 @@
-# travel
+# Travel-APP (Vue VueX)
 
 > A Vue.js project
 
